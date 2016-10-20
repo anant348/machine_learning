@@ -1,0 +1,55 @@
+
+
+Attributes : 1 1 1 1 1 1 1 1 1 0 0 0 1 1 
+Accuracy : 67.213115
+Execution Time : 4.312562 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 16
+
+Attributes : 1 1 1 1 1 1 1 0 1 1 0 0 0 1 
+Accuracy : 67.213115
+Execution Time : 5.743825 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 16
+
+Attributes : 1 1 1 1 1 0 0 1 1 1 1 1 0 0 
+Accuracy : 67.213115
+Execution Time : 5.096376 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 16
+
+Attributes : 1 1 1 1 1 0 1 0 1 1 1 0 1 1 
+Accuracy : 67.213115
+Execution Time : 5.026383 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 16
+
+Attributes : 1 1 1 1 1 1 1 0 0 0 0 0 0 0 
+Accuracy : 67.213115
+Execution Time : 5.759851 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 16
+
+Attributes : 1 1 1 1 1 1 1 1 0 1 1 1 0 0 
+Accuracy : 73.770492
+Execution Time : 16.687108 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 809
+
+Attributes : 1 1 1 1 1 1 1 0 0 1 1 0 0 1 
+Accuracy : 67.213115
+Execution Time : 7.508992 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 125
+
+Attributes : 1 1 1 1 1 0 1 0 0 0 1 1 0 0 
+Accuracy : 73.770492
+Execution Time : 22.482312 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 809
+
+Attributes : 1 1 1 1 1 1 1 1 1 1 1 1 0 1 
+Accuracy : 67.213115
+Execution Time : 5.507597 sec
+Data Size : 303 
+C : 1000  Gamma : 0.000000 Ramdom State : 16

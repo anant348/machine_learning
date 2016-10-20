@@ -1,0 +1,19 @@
+
+
+Attributes : 1 1 0 0 0 1 1 1 1 
+Accuracy : 79.870130
+Execution Time : 7.221302 sec
+Data Size : 768 
+C : 1000  Gamma : 0.000001
+
+Attributes : 1 1 1 1 1 1 0 0 1 
+Accuracy : 81.168831
+Execution Time : 7.168982 sec
+Data Size : 768 
+C : 1000  Gamma : 0.000001
+
+Attributes : 1 1 1 1 1 1 0 0 1 
+Accuracy : 75.974026
+Execution Time : 10.210946 sec
+Data Size : 768 
+C : 1000  Gamma : 0.000001 Ramdom State : 56

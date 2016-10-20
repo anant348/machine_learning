@@ -1,0 +1,91 @@
+
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 70.085470
+Execution Time : 13.157236 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 70.085470
+Execution Time : 16.727051 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000
+
+Attributes : 1 1 1 1 0 0 0 1 0 0 1 
+Accuracy : 80.341880
+Execution Time : 90.905131 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 73.504274
+Execution Time : 19.030828 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000
+
+Attributes : 1 1 1 0 1 0 0 0 1 1 1 
+Accuracy : 74.358974
+Execution Time : 72.311398 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 0
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 77.777778
+Execution Time : 27.310158 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 540
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 27.222256 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 79.487179
+Execution Time : 158.264797 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 617
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 74.358974
+Execution Time : 13.741395 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 9
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 25.196444 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 27.741209 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 26.091470 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 25.594763 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 26.843114 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
+
+Attributes : 0 1 1 1 1 1 1 0 1 1 1 
+Accuracy : 78.632479
+Execution Time : 28.921908 sec
+Data Size : 583 
+C : 1000  Gamma : 0.001000 Ramdom State : 61
